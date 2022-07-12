@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ropsten-unbox/static/css/main.e11971f9.chunk.css",
+    "main.js": "/Ropsten-unbox/static/js/main.b711e79d.chunk.js",
+    "main.js.map": "/Ropsten-unbox/static/js/main.b711e79d.chunk.js.map",
+    "runtime-main.js": "/Ropsten-unbox/static/js/runtime-main.5e42c58e.js",
+    "runtime-main.js.map": "/Ropsten-unbox/static/js/runtime-main.5e42c58e.js.map",
+    "static/js/2.ae3955e4.chunk.js": "/Ropsten-unbox/static/js/2.ae3955e4.chunk.js",
+    "static/js/2.ae3955e4.chunk.js.map": "/Ropsten-unbox/static/js/2.ae3955e4.chunk.js.map",
+    "index.html": "/Ropsten-unbox/index.html",
+    "static/css/main.e11971f9.chunk.css.map": "/Ropsten-unbox/static/css/main.e11971f9.chunk.css.map",
+    "static/js/2.ae3955e4.chunk.js.LICENSE.txt": "/Ropsten-unbox/static/js/2.ae3955e4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e42c58e.js",
+    "static/js/2.ae3955e4.chunk.js",
+    "static/css/main.e11971f9.chunk.css",
+    "static/js/main.b711e79d.chunk.js"
+  ]
+}
